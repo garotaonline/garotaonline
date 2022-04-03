@@ -1,13 +1,12 @@
-<h2>✨ Olá! Eu sou a Andressa L. Lima ✨</h2>
+<h1 align="center">✨ Hello! My name is Andressa Lima ✨</h1>
 
 
-<h5>📚 Estudando JavaScript</h5>
-<h5>👩🏽 Pronouns: She/Her</h5>
 <br>
 <div align="center" style="display: flex">
   <a href="https://github.com/garotaonline">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=garotaonline&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garotaonline&layout=compact&langs_count=7&theme=radical"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=garotaonline&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garotaonline&layout=compact&langs_count=7&theme=radical"/>
+    <h4 align="center">📚 Studying JavaScript</h4>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Andressa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,6 +22,7 @@
   <a href = "mailto:andressaldl16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andressa-laurentino-de-lima-722860127/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  <h5 align="end">Pronouns: She/Her</h5>
   
   ![Snake animation](https://github.com/garotaonline/garotaonline/blob/output/github-contribution-grid-snake.svg)
  
