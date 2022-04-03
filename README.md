@@ -4,7 +4,7 @@
 <h4>📚 Estudando JavaScript</h4>
 <h4>👩🏽 Pronouns: She/Her</h4>
 <br>
-<div align="center">
+<div align="center" style="display: flex">
   <a href="https://github.com/garotaonline">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=garotaonline&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garotaonline&layout=compact&langs_count=7&theme=radical"/>
