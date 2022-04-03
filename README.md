@@ -1,13 +1,13 @@
-<h1>✨ Olá! Eu sou a Andressa L. Lima ✨</h1>
+<h2>✨ Olá! Eu sou a Andressa L. Lima ✨</h2>
 
 
-<h4>📚 Estudando JavaScript</h4>
-<h4>👩🏽 Pronouns: She/Her</h4>
+<h5>📚 Estudando JavaScript</h5>
+<h5>👩🏽 Pronouns: She/Her</h5>
 <br>
 <div align="center" style="display: flex">
   <a href="https://github.com/garotaonline">
-  <img height="50em" src="https://github-readme-stats.vercel.app/api?username=garotaonline&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garotaonline&layout=compact&langs_count=7&theme=radical"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=garotaonline&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garotaonline&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Andressa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
