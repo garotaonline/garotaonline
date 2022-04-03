@@ -6,7 +6,7 @@
   <a href="https://github.com/garotaonline">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=garotaonline&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garotaonline&layout=compact&langs_count=7&theme=radical"/>
-    <h4 align="center">📚 Studying JavaScript</h4>
+    <h4 align="center">𝓢𝓽𝓾𝓭𝔂𝓲𝓷𝓰 𝓙𝓪𝓿𝓪𝓢𝓬𝓻𝓲𝓹𝓽✏</h4>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Andressa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
