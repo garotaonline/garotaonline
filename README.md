@@ -1,13 +1,13 @@
-✨ Olá! Eu sou a Andressa L. Lima ✨
+<h1>✨ Olá! Eu sou a Andressa L. Lima ✨</h1>
 
 
-- 🌱 Estudando JavaScript
-- 😄 Pronouns: She/Her
-
+<h4>📚 Estudando JavaScript</h4>
+<h4>👩🏽 Pronouns: She/Her</h4>
+<br>
 <div align="center">
   <a href="https://github.com/garotaonline">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=garotaonline&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garotaonline&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=garotaonline&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garotaonline&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Andressa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
