@@ -13,7 +13,7 @@
   <img align="center" alt="Andressa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andressa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andressa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Andressa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/685894832303898760/960698855601618975/9e9732629cfa6ae287a490aa40e731f2.gif">
+  <img align="right" alt="Andressa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/685894832303898760/986971611750080622/PicsArt_04-04-08.54.05.jpg">
 </div>
   
   ##
